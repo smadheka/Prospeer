@@ -1,2 +1,0 @@
-# Prospeer
-Agile Methods
